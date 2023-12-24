@@ -1,4 +1,4 @@
-# MATH 439 Final Exam Problem 2 - Adrien Leon
+# Earthquake Magnitude Position - Adrien Leon
 
 ## Overview
 
