@@ -1,4 +1,4 @@
-# Earthquake Magnitude Position - Adrien Leon
+# Earthquake Magnitude Prediction - Adrien Leon
 
 ## Overview
 
